@@ -1,0 +1,17 @@
+header{
+	text-align: center;
+	color: white;
+	background: black;
+	background-size: cover;
+	font-family: "Courier New";
+}
+ul{
+	padding: 10px;
+	background: black;
+	background: #7da6e8;
+}
+li{
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+
