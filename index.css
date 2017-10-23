@@ -5,6 +5,9 @@ header{
 	background-size: cover;
 	font-family: "Courier New";
 }
+h1{
+	padding: 10px;
+}
 ul{
 	padding: 10px;
 	background: black;
