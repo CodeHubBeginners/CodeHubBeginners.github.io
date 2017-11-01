@@ -5,7 +5,7 @@ header{
 	background-size: cover;
 	font-family: "Courier New";
 }
-h1{
+h1#CodeHub{
 	font-size: 50px;
 }
 ul#pages{
@@ -13,7 +13,11 @@ ul#pages{
 	background: black;
 	background: #7da6e8;
 }
-li{
+li#pages{
 	display: inline;
 	padding: 0px 10px 0px 10px;
+}
+.links{
+	text-align: center;
+	font-family: "Courier New";
 }
