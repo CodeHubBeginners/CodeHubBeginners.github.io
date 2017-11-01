@@ -21,4 +21,5 @@ li#pages{
 	text-align: center;
 	font-family: "Courier New";
 	padding: 10px;
+	list-style-type: none;
 }
