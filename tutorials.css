@@ -10,7 +10,6 @@ h1#CodeHub{
 }
 ul#pages{
 	padding: 10px;
-	background: black;
 	background: #7da6e8;
 }
 li#pages{
@@ -22,4 +21,18 @@ li#pages{
 	font-family: "Courier New";
 	padding: 10px;
 	list-style-type: none;
+}
+div.starting{
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
+}
+div.html{
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
 }
