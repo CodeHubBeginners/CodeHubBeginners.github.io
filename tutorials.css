@@ -25,42 +25,42 @@ li#pages{
 div.starting{
     background-color: lightgrey;
     width: 300px;
-    border: 15px solid black;
+    border: 5px solid black;
     padding: 25px;
     margin: 25px;
 }
 div.html{
     background-color: lightgrey;
     width: 300px;
-    border: 15px solid black;
+    border: 5px solid black;
     padding: 25px;
     margin: 25px;
 }
 div.css{
     background-color: lightgrey;
     width: 300px;
-    border: 15px solid black;
+    border: 5px solid black;
     padding: 25px;
     margin: 25px;
 }
 div.github{
     background-color: lightgrey;
     width: 300px;
-    border: 15px solid black;
+    border: 5px solid black;
     padding: 25px;
     margin: 25px;
 }
 div.bootstrap{
     background-color: lightgrey;
     width: 300px;
-    border: 15px solid black;
+    border: 5px solid black;
     padding: 25px;
     margin: 25px;
 }
 div.javascript{
     background-color: lightgrey;
     width: 300px;
-    border: 15px solid black;
+    border: 5px solid black;
     padding: 25px;
     margin: 25px;
 }
