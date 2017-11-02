@@ -64,3 +64,8 @@ div.javascript{
     padding: 25px;
     margin: 25px;
 }
+button{
+    background: green;
+    color: white;
+    object-position: center;
+}
