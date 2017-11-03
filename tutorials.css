@@ -36,12 +36,18 @@ div.html{
     padding: 25px;
     margin: 25px;
 }
+.html li{
+    list-style-type: none;
+}
 div.css{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
     padding: 25px;
     margin: 25px;
+}
+.css li{
+    list-style-type: none;
 }
 div.github{
     background-color: lightgrey;
@@ -50,12 +56,18 @@ div.github{
     padding: 25px;
     margin: 25px;
 }
+.github li{
+    list-style-type: none;
+}
 div.bootstrap{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
     padding: 25px;
     margin: 25px;
+}
+.bootstrap li{
+    list-style-type: none;
 }
 div.javascript{
     background-color: lightgrey;
@@ -64,12 +76,18 @@ div.javascript{
     padding: 25px;
     margin: 25px;
 }
+.javascript li{
+    list-style-type: none;
+}
 div.weblinks{
     background-color: lightgrey;
     width: 600px;
     border: 5px solid black;
     padding: 25px;
     margin: 25px;
+}
+.weblinks li{
+    list-style-type: none;
 }
 .weblinkslist{
     text-align: center;
