@@ -71,3 +71,10 @@ button{
 form{
     padding: 10px 0px 10px 0px;
 }
+div.weblinks{
+    background-color: lightgrey;
+    width: 600px;
+    border: 5px solid black;
+    padding: 25px;
+    margin: 25px;
+}
