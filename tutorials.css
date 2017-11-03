@@ -67,5 +67,7 @@ div.javascript{
 button{
     background: green;
     color: white;
-    object-position: center;
+}
+form{
+    padding: 10px 0px 10px 0px;
 }
