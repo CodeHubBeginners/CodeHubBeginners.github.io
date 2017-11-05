@@ -7,6 +7,7 @@ header{
 }
 h1{
 	font-size: 50px;
+	font-family: "Courier New";
 }
 ul{
 	padding: 10px;
@@ -16,4 +17,44 @@ ul{
 li{
 	display: inline;
 	padding: 0px 10px 0px 10px;
+}
+h2{
+	text-align: center;
+	font-size: 40px;
+	font-family: "Courier New";
+}
+
+h3{
+	font-size: 30px;
+	font-family: "Courier New";
+	padding: 5px;
+}
+
+div.guardian{
+    background-color: lightgrey;
+    border: 5px solid black;
+    padding-left: 25px;
+		padding-right: 25px;
+		padding-bottom: 25px;
+    margin: 25px;
+}
+
+div.womanweek{
+    background-color: lightgrey;
+    border: 5px solid black;
+    padding-left: 25px;
+		padding-right: 25px;
+		padding-bottom: 25px;
+    margin: 25px;
+}
+
+#isis{
+    max-height: auto;
+		max-width: 100%;
+		padding-top: 60px;
+		padding-left: 10px;
+		padding-right: 10px;
+		padding-bottom: 60px;
+
+
 }
