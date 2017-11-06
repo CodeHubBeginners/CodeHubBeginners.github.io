@@ -17,4 +17,11 @@ li{
 	display: inline;
 	padding: 0px 10px 0px 10px;
 }
+button{
+    background: green;
+    color: white;
+}
+form{
+    padding: 10px 0px 10px 0px;
+}
 
