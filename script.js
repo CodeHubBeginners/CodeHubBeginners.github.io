@@ -1,4 +1,5 @@
 $(document).ready(function(){
+  // alert("Alert");
   var button = $("#click_me");
 
   button.on('click', function(){
@@ -9,5 +10,3 @@ $(document).ready(function(){
     button.html("Clicked!");
   })
 })
-
-$('html').css('background-color', '#5B73FB');
