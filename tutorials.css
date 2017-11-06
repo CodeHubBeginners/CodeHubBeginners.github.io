@@ -31,15 +31,18 @@ div.starting{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
-    margin: 25px;
+    padding: 10px;
+    margin: 10px;
+}
+.starting li{
+    list-style-type: none; 
 }
 div.html{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
-    margin: 25px;
+    padding: 10px;
+    margin: 10px;
 }
 .html li{
     list-style-type: none;
@@ -48,8 +51,8 @@ div.css{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
-    margin: 25px;
+    padding: 10px;
+    margin: 10px;
 }
 .css li{
     list-style-type: none;
@@ -58,8 +61,8 @@ div.github{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
-    margin: 25px;
+    padding: 10px;
+    margin: 10px;
 }
 .github li{
     list-style-type: none;
@@ -68,8 +71,8 @@ div.bootstrap{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
-    margin: 25px;
+    padding: 10px;
+    margin: 10px;
 }
 .bootstrap li{
     list-style-type: none;
@@ -78,8 +81,8 @@ div.javascript{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
-    margin: 25px;
+    padding: 10px;
+    margin: 10px;
 }
 .javascript li{
     list-style-type: none;
@@ -88,8 +91,8 @@ div.weblinks{
     background-color: lightgrey;
     width: 600px;
     border: 5px solid black;
-    padding: 25px;
-    margin: 25px;
+    padding: 10px;
+    margin: 10px;
 }
 .weblinks li{
     list-style-type: none;
