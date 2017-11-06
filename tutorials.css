@@ -18,9 +18,14 @@ li#pages{
 }
 .links{
 	text-align: center;
-	font-family: "Courier New";
 	padding: 10px;
 	list-style-type: none;
+}
+h1#tutorialsheader{
+    font-family: "Courier New"; 
+}
+h2{
+    font-family: "Courier New";
 }
 div.starting{
     background-color: lightgrey;
@@ -95,10 +100,4 @@ div.weblinks{
     padding: 10px;
     list-style-type: none;
 }
-button{
-    background: green;
-    color: white;
-}
-form{
-    padding: 10px 0px 10px 0px;
-}
+
