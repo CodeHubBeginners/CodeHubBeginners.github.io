@@ -31,7 +31,7 @@ div.starting{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
+    padding: 10px;
     margin: 10px;
 }
 .starting li{
@@ -41,7 +41,7 @@ div.html{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
+    padding: 10px;
     margin: 10px;
 }
 .html li{
@@ -51,7 +51,7 @@ div.css{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
+    padding: 10px;
     margin: 10px;
 }
 .css li{
@@ -61,7 +61,7 @@ div.github{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
+    padding: 10px;
     margin: 10px;
 }
 .github li{
@@ -71,7 +71,7 @@ div.bootstrap{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
+    padding: 10px;
     margin: 10px;
 }
 .bootstrap li{
@@ -81,7 +81,7 @@ div.javascript{
     background-color: lightgrey;
     width: 300px;
     border: 5px solid black;
-    padding: 25px;
+    padding: 10px;
     margin: 10px;
 }
 .javascript li{
@@ -91,7 +91,7 @@ div.weblinks{
     background-color: lightgrey;
     width: 600px;
     border: 5px solid black;
-    padding: 25px;
+    padding: 10px;
     margin: 10px;
 }
 .weblinks li{
