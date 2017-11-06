@@ -21,6 +21,9 @@ li#pages{
 	padding: 10px;
 	list-style-type: none;
 }
+h1#tutorialsheader{
+    font-family: "Courier New"; 
+}
 h2{
     font-family: "Courier New";
 }
