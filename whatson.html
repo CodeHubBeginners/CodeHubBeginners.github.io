@@ -10,7 +10,7 @@
 
 	<body class="container">
 		<header>
-			<h1>CodeHub - What's on</h1>
+			<h1>CodeHub</h1>
 			<ul>
 				<li><a href="./index.html"> About Us </a></li>
 				<li><a href="./whatson.html"> What's On </a></li>
@@ -19,21 +19,9 @@
 			</ul>
 		</header>
 
-		<h3>My Google Maps Demo</h3>
+		<h2>Find events near you</h2>
 	    <div id="map"></div>
-	    <script>
-	      function initMap() {
-	        var uluru = {lat: -25.363, lng: 131.044};
-	        var map = new google.maps.Map(document.getElementById('map'), {
-	          zoom: 4,
-	          center: uluru
-	        });
-	        var marker = new google.maps.Marker({
-	          position: uluru,
-	          map: map
-	        });
-	      }
-	    </script>
+	    
 	    <script async defer
 	    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSO8_zAz6CJtAlIWEa8LrrSrpra_Tok9M&callback=initMap">
 	    </script>
