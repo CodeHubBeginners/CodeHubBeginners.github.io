@@ -11,8 +11,12 @@
 
 		<script>
 		$(document).ready(function(){
-		    $("data-area-toggle").click(function(){
-		        $("locations").toggle();
+		    $("[data-area-toggle]").click(function(){
+					$(".locations").hide()
+
+					area = $(this).data("area-toggle");
+					$area = $("#"+area);
+					$area.show();
 		    });
 		});
 		</script>
@@ -21,7 +25,6 @@
 
 
 	</head>
-
 	<body class="container">
 		<header>
 			<h1>CodeHub</h1>
@@ -33,8 +36,9 @@
 			</ul>
 		</header>
 
-		<!-- <h2>Find events near you</h2>
-	    <div id="map"></div>
+		<!-- <h2>Find events near you</h2> -->
+
+			<!-- <div id="map"></div>
 
 			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDSO8_zAz6CJtAlIWEa8LrrSrpra_Tok9M&callback=myMap">
 	    </script> -->
@@ -43,15 +47,16 @@
 				 <div class="col-sm-10 col-sm-offset-0 col-md-6 col-md-offset-4">
 						 <img src="dots.png" alt="uk" usemap="#eventsmap">
 						 	<map name="eventsmap">
-			  			<area shape="circle" coords="50,50,3" alt="london" data-area-toggle='london'>
-			  			<area shape="circle" coords="90,58,3" alt="manchester" data-area-toggle='manchester'>
+			  				<area shape="circle" coords="50,50,30" alt="london" data-area-toggle='london'>
+			  				<area shape="circle" coords="50,100,30" alt="manchester" data-area-toggle='manchester'>
 						</map>
 				</div>
 			</div>
 
-			<button>Toggle</button>
+			<!-- <button>Toggle</button>
+			<p>This is a paragraph.</p> -->
 
-			<p>This is a paragraph.</p>
+
 <div id="london" class="locations">
 	<h2> LONDON </h2>
    <p> Enter information here about events in london </p>
