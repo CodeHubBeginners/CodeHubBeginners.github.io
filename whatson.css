@@ -14,6 +14,12 @@ h2{
 	font-family: "Courier New";
 }
 
+
+h3{
+	font-size: 20px;
+	font-family: "Courier New";
+}
+
 ul{
 	padding: 10px;
 	background: black;
@@ -29,3 +35,25 @@ li{
         width: 100%;
 
        }
+
+ div.london2{
+
+			     padding-left: 25px;
+			 		padding-right: 25px;
+			 		padding-bottom: 25px;
+					padding-top: 25px;
+			     margin: 25px;
+			 }
+
+			 /*map {
+    display: inline;
+}*/
+
+.locations{
+	font-size: 25px;
+	color: red;
+	font-family: "Courier New";
+	padding-left: 100px;
+	padding-top: 20px;
+
+}
