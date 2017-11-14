@@ -5,6 +5,31 @@ header{
 	background-size: cover;
 	font-family: "Courier New";
 }
+
+
+.backset{
+	background-color: white;
+	padding: 20px 20px 20px 20px;
+}
+
+
+
+/*body{
+	background-color: white;
+}*/
+
+body{
+	background-image: url(backk.jpg);
+	background-repeat: no-repeat;
+	 background-position: 0 0;
+	 background-size: cover;
+
+}
+
+
+
+
+
 h1{
 	font-size: 50px;
 }
@@ -51,7 +76,6 @@ li{
 
 .locations{
 	font-size: 25px;
-	color: red;
 	font-family: "Courier New";
 	padding-left: 100px;
 	padding-top: 20px;
