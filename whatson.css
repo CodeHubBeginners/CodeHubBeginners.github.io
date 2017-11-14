@@ -22,6 +22,7 @@ body{
 	background-image: url(backk.jpg);
 	background-repeat: no-repeat;
 	 background-position: 0 0;
+	  background-attachment: fixed;
 	 background-size: cover;
 
 }
