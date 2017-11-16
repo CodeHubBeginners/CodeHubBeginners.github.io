@@ -55,7 +55,7 @@ div.starting{
     list-style-type: none;
 }
 div.html{
-    background-image: url("/Users/eleanorwalker/Desktop/Code for Girls/CodeHubBeginners.github.io/hexagon.png");
+    background-image: url(hexagon.jpg);
     background-size: 250px 240px;
     background-position: center;
     width: 350px;
@@ -79,7 +79,7 @@ div.css{
     list-style-type: none;
 }
 div.github{
-    background-image: url("/Users/eleanorwalker/Desktop/Code for Girls/CodeHubBeginners.github.io/hexagon.png");
+    background-image: url(hexagon.jpg);
     background-size: 250px 240px;
     background-position: center;
     width: 350px;
@@ -103,7 +103,7 @@ div.bootstrap{
     list-style-type: none;
 }
 div.javascript{
-    background-image: url("/Users/eleanorwalker/Desktop/Code for Girls/CodeHubBeginners.github.io/hexagon.png");
+    background-image: url(hexagon.jpg);
     background-size: 250px 240px;
     background-position: center;
     width: 350px;
