@@ -24,4 +24,20 @@ button{
 form{
     padding: 10px 0px 10px 0px;
 }
-
+footer{
+    text-align: center;
+    color: white;
+    background: #7da6e8;
+    background-size: cover;
+    font-family: "Courier New";
+    height: 50px;
+    padding-top: 10px;
+}
+ul#contact{
+    padding: 10px;
+    background: black;
+}
+li#contact{
+    display: inline;
+    padding: 10px 10px 10px 0px;
+}
