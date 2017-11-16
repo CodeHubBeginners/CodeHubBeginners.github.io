@@ -14,9 +14,6 @@ header{
 
 
 
-/*body{
-	background-color: white;
-}*/
 
 body{
 	background-image: url(backk.jpg);
@@ -62,16 +59,7 @@ li{
 
        }
 
-<<<<<<< HEAD
-footer{
-    text-align: center;
-    color: white;
-    background: black;
-    background-size: cover;
-    font-family: "Courier New";
-    height: 50px;
-    padding-top: 20px;
-=======
+
  div.london2{
 
 			     padding-left: 25px;
@@ -81,9 +69,6 @@ footer{
 			     margin: 25px;
 			 }
 
-			 /*map {
-    display: inline;
-}*/
 
 .locations{
 	font-size: 25px;
@@ -92,5 +77,4 @@ footer{
 	padding-top: 20px;
 	display: none;
 
->>>>>>> d67a62563adf55b60fdf90a45593b5ae7f3c65b6
-}
+
