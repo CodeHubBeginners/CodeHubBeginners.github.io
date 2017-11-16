@@ -21,27 +21,32 @@ li#pages{
 	padding: 10px;
 	list-style-type: none;
 }
-h1#tutorialsheader{
+h1{
     font-family: "Courier New"; 
+    text-align: center;
 }
 h2{
     font-family: "Courier New";
 }
 div.starting{
     background-color: lightgrey;
-    width: 300px;
+    width: 350px;
+    height: 250px;
     border: 5px solid black;
-    padding: 10px;
+    padding: 30px;
     margin: 10px;
 }
 .starting li{
     list-style-type: none; 
 }
 div.html{
-    background-color: lightgrey;
-    width: 300px;
+    background-image: url("/Users/eleanorwalker/Desktop/Code for Girls/CodeHubBeginners.github.io/hexagon.png");
+    background-size: 250px 240px;
+    background-position: center;
+    width: 350px;
+    height: 250px;
     border: 5px solid black;
-    padding: 10px;
+    padding: 30px;
     margin: 10px;
 }
 .html li{
@@ -49,17 +54,21 @@ div.html{
 }
 div.css{
     background-color: lightgrey;
-    width: 300px;
+    width: 350px;
+    height: 250px;
     border: 5px solid black;
-    padding: 10px;
+    padding: 20px;
     margin: 10px;
 }
 .css li{
     list-style-type: none;
 }
 div.github{
-    background-color: lightgrey;
-    width: 300px;
+    background-image: url("/Users/eleanorwalker/Desktop/Code for Girls/CodeHubBeginners.github.io/hexagon.png");
+    background-size: 250px 240px;
+    background-position: center;
+    width: 350px;
+    height: 250px;
     border: 5px solid black;
     padding: 10px;
     margin: 10px;
@@ -69,38 +78,43 @@ div.github{
 }
 div.bootstrap{
     background-color: lightgrey;
-    width: 300px;
+    width: 350px;
+    height: 250px;
     border: 5px solid black;
-    padding: 10px;
+    padding: 20px;
     margin: 10px;
 }
 .bootstrap li{
     list-style-type: none;
 }
 div.javascript{
-    background-color: lightgrey;
-    width: 300px;
+    background-image: url("/Users/eleanorwalker/Desktop/Code for Girls/CodeHubBeginners.github.io/hexagon.png");
+    background-size: 250px 240px;
+    background-position: center;
+    width: 350px;
+    height: 250px;
     border: 5px solid black;
-    padding: 10px;
+    padding: 30px;
     margin: 10px;
 }
 .javascript li{
     list-style-type: none;
 }
-div.weblinks{
-    background-color: lightgrey;
-    width: 600px;
-    border: 5px solid black;
-    padding: 10px;
-    margin: 10px;
-}
-.weblinks li{
-    list-style-type: none;
-}
-.weblinkslist{
+footer{
     text-align: center;
+    color: white;
+    background: #7da6e8;
+    background-size: cover;
     font-family: "Courier New";
+    height: 50px;
+    padding-top: 10px;
+}
+ul#contact{
     padding: 10px;
-    list-style-type: none;
+    background: black;
+}
+li#contact{
+    display: inline;
+    padding: 10px 10px 10px 0px;
 }
 
