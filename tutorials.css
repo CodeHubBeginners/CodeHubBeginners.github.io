@@ -5,6 +5,21 @@ header{
 	background-size: cover;
 	font-family: "Courier New";
 }
+
+body{
+	background-image: url(backk.jpg);
+	background-repeat: no-repeat;
+	 background-position: 0 0;
+	  background-attachment: fixed;
+	 background-size: cover;
+
+}
+
+.backset{
+	background-color: white;
+	padding: 20px 20px 20px 20px;
+}
+
 h1#CodeHub{
 	font-size: 50px;
 }
@@ -22,7 +37,7 @@ li#pages{
 	list-style-type: none;
 }
 h1{
-    font-family: "Courier New"; 
+    font-family: "Courier New";
     text-align: center;
 }
 h2{
@@ -37,7 +52,7 @@ div.starting{
     margin: 10px;
 }
 .starting li{
-    list-style-type: none; 
+    list-style-type: none;
 }
 div.html{
     background-image: url("/Users/eleanorwalker/Desktop/Code for Girls/CodeHubBeginners.github.io/hexagon.png");
@@ -117,4 +132,3 @@ li#contact{
     display: inline;
     padding: 10px 10px 10px 0px;
 }
-
