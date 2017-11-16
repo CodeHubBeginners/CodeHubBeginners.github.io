@@ -5,6 +5,16 @@ header{
 	background-size: cover;
 	font-family: "Courier New";
 }
+
+body{
+	background-image: url(backk.jpg);
+	background-repeat: no-repeat;
+	 background-position: 0 0;
+	  background-attachment: fixed;
+	 background-size: cover;
+
+}
+
 h1{
 	font-size: 50px;
 	font-family: "Courier New";
@@ -57,4 +67,9 @@ div.womanweek{
 		padding-bottom: 60px;
 
 
+}
+
+.backset{
+	background-color: white;
+	padding: 20px 20px 20px 20px;
 }
