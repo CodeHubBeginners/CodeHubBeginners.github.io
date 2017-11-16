@@ -29,3 +29,13 @@ li{
         width: 100%;
 
        }
+
+footer{
+    text-align: center;
+    color: white;
+    background: black;
+    background-size: cover;
+    font-family: "Courier New";
+    height: 50px;
+    padding-top: 20px;
+}
