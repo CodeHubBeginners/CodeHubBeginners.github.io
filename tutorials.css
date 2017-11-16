@@ -115,6 +115,9 @@ div.javascript{
 .javascript li{
     list-style-type: none;
 }
+h2{
+    text-align: center;
+}
 footer{
     text-align: center;
     color: white;
