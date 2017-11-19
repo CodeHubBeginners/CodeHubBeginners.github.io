@@ -37,6 +37,13 @@ footer{
     background: #7da6e8;
     text-align: center;
 }
+
+p {
+	font-size: 30px;
+	font-family: "Courier New";
+	padding: 5px;
+}
+
 .contact{
     padding-top: 5px;
     padding-bottom: 5px;
