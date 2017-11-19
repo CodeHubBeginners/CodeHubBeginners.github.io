@@ -42,7 +42,7 @@ h3{
 	padding: 5px;
 }
 
-a { text-decoration: none; color:red; }
+a { text-decoration: none; color: white; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
 a:focus { text-decoration: none; }
@@ -77,10 +77,7 @@ div.womanweek{
 
 }
 
-.backset{
-	background-color: white;
-	padding: 20px 20px 20px 20px;
-}
+3
 footer{
     color: white;
     background: #7da6e8;
