@@ -42,6 +42,12 @@ h3{
 	padding: 5px;
 }
 
+a { text-decoration: none; color:red; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
+
 div.guardian{
     background-color: lightgrey;
     border: 5px solid black;
