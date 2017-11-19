@@ -19,6 +19,9 @@ h1{
 	font-size: 50px;
 	font-family: "Courier New";
 }
+a { color: inherit; } 
+
+
 ul{
 	padding: 10px;
 	background: black;
