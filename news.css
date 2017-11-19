@@ -53,11 +53,10 @@ div.womanweek{
     background-color: lightgrey;
     border: 5px solid black;
     padding-left: 25px;
-		padding-right: 25px;
-		padding-bottom: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
     margin: 25px;
 }
-
 #isis{
     max-height: auto;
 		max-width: 100%;
@@ -65,13 +64,20 @@ div.womanweek{
 		padding-left: 10px;
 		padding-right: 10px;
 		padding-bottom: 60px;
-
-
 }
-
 .backset{
 	background-color: white;
 	padding: 20px 20px 20px 20px;
+}
+.submitnews{
+	padding: 0px 20px 20px 20px;
+	text-align: center;
+}
+.newsbtn{
+	background-color: #3b916f;
+	color: white;
+	border-color: #215b44;
+	font-size: 20px;
 }
 footer{
     color: white;
