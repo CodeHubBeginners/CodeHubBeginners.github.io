@@ -58,7 +58,7 @@ footer{
     text-align: center;
 }
 
-a { text-decoration: none; color: white; }
+.weblinks a { text-decoration: none; color: white; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; color: white;}
 a:focus { text-decoration: none; }
