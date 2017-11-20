@@ -7,7 +7,7 @@ header{
 }
 
 body{
-	background-image: url(backk.jpg);
+	background-image: url(background.jpg);
 	background-repeat: no-repeat;
 	 background-position: 0 0;
 	  background-attachment: fixed;
@@ -147,10 +147,10 @@ a:hover { text-decoration: none; color: white; }
 a:focus { text-decoration: none; }
 a:hover, a:active { text-decoration: none; }
 
+a.links { text-decoration: none; color: white; }
+
 .weblinkslist {
     color: black;
 }
 
 .weblinkslist a:hover {color: black; }
-
-

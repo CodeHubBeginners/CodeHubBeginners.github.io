@@ -5,6 +5,22 @@ header{
 	background-size: cover;
 	font-family: "Courier New";
 }
+
+body{
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	 background-position: 0 0;
+	  background-attachment: fixed;
+	 background-size: cover;
+
+}
+
+.backset{
+	background-color: white;
+	padding: 20px 20px 20px 20px;
+}
+
+
 h1{
 	font-size: 50px;
 }
@@ -65,4 +81,3 @@ a:hover, a:active { text-decoration: none; }
 @media all and (min-width: 48em) {
     .test { height: 320px; }
 }
-
