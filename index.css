@@ -53,5 +53,16 @@ a:hover { text-decoration: none; color: white;}
 a:focus { text-decoration: none; }
 a:hover, a:active { text-decoration: none; }
 
+[data-slides] {
+    background-image: url(file:///Users/Student/Desktop/CodeFirst%20Project/CodeHubBeginners.github.io/image%203.jpg); /* Default image. */
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    transition: background-image 1s linear;
+}
 
+.test { height: 220px; }
+@media all and (min-width: 48em) {
+    .test { height: 320px; }
+}
 
