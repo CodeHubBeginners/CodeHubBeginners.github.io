@@ -12,17 +12,12 @@ header{
 	padding: 20px 20px 20px 20px;
 }
 
-
-
-
-
 body{
 	background-image: url(backk.jpg);
 	background-repeat: no-repeat;
 	 background-position: 0 0;
 	  background-attachment: fixed;
 	 background-size: cover;
-
 }
 
 
@@ -46,6 +41,7 @@ ul{
 	background: black;
 	background: #7da6e8;
 }
+
 li{
 	display: inline;
 	padding: 0px 10px 0px 10px;
@@ -54,19 +50,16 @@ li{
 #map {
         height: 400px;
         width: 100%;
-
-       }
+   }
 
 
  div.london2{
-
 			     padding-left: 25px;
 			 		padding-right: 25px;
 			 		padding-bottom: 25px;
 					padding-top: 25px;
 			     margin: 25px;
 			 }
-
 
 .locations{
 	font-size: 25px;
@@ -75,6 +68,7 @@ li{
 	padding-top: 20px;
 	display: none;
 }
+
 footer{
     color: white;
     background: #7da6e8;
@@ -83,11 +77,13 @@ footer{
     background: #7da6e8;
     text-align: center;
 }
+
 .contact{
     padding-top: 5px;
     padding-bottom: 5px;
     background-color: black;
 }
+
 .media_buttons{
     background: #7da6e8;
     background-size: cover;
