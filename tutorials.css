@@ -144,3 +144,7 @@ a:hover, a:active { text-decoration: none; }
 .weblinkslist {
     color: black;
 }
+
+.weblinkslist a:hover {color: black; }
+
+
