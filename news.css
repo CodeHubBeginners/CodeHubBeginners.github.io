@@ -73,22 +73,68 @@ div.womanweek{
 		padding-right: 10px;
 		padding-bottom: 60px;
 }
-<<<<<<< HEAD
+
 .backset{
 	background-color: white;
 	padding: 20px 20px 20px 20px;
 }
-.submitnews{
-	padding: 0px 20px 20px 20px;
-	text-align: center;
-}
-.newsbtn{
-	background-color: #3b916f;
-	color: white;
-	border-color: #215b44;
-	font-size: 20px;
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
 }
 
+/* Set a style for all buttons */
+form{
+	padding: 20px 20px 20px 20px;
+	border: 5px solid black;
+	background-color: white;
+	font-family: "Courier New";
+	font-size: 20px;
+}
+button {
+	text-align: center;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+	text-align: center;
+    padding: 14px 20px;
+    background-color: #f44336;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn,.signupbtn {
+    float: left;
+    width: 50%;
+}
+
+
+/* Clear floats */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+    .cancelbtn, .signupbtn {
+       width: 100%;
+    }
+}
 footer{
     color: white;
     background: #7da6e8;
