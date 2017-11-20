@@ -116,6 +116,17 @@ div.javascript{
 h2{
     text-align: center;
 }
+button{
+    background: green;
+    color: white;
+}
+form{
+    text-align: center;
+    font-family: "Courier New";
+    font-size: 20px;
+    padding: 10px 0px 10px 0px;
+}
+
 footer{
     color: white;
     background: #7da6e8;
