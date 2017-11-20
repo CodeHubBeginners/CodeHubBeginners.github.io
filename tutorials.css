@@ -7,7 +7,7 @@ header{
 }
 
 body{
-	background-image: url(backk.jpg);
+	background-image: url(background.jpg);
 	background-repeat: no-repeat;
 	 background-position: 0 0;
 	  background-attachment: fixed;
@@ -146,5 +146,3 @@ a:hover, a:active { text-decoration: none; }
 }
 
 .weblinkslist a:hover {color: black; }
-
-
