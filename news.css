@@ -91,8 +91,7 @@ input[type=text], input[type=password] {
 
 /* Set a style for all buttons */
 form{
-	padding: 20px 20px 20px 20px;
-	border: 5px solid black;
+	padding: 1px 45px 45px 45px;
 	background-color: white;
 	font-family: "Courier New";
 	font-size: 20px;
