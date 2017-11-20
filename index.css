@@ -5,6 +5,22 @@ header{
 	background-size: cover;
 	font-family: "Courier New";
 }
+
+body{
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	 background-position: 0 0;
+	  background-attachment: fixed;
+	 background-size: cover;
+
+}
+
+.backset{
+	background-color: white;
+	padding: 20px 20px 20px 20px;
+}
+
+
 h1{
 	font-size: 50px;
 }
@@ -41,4 +57,27 @@ footer{
     background: #7da6e8;
     background-size: cover;
     padding-bottom: 5px;
+}
+
+.email{
+    text-align: center;
+}
+
+a { text-decoration: none; color: white; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; color: white;}
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
+
+[data-slides] {
+    background-image: url(file:///Users/Student/Desktop/CodeFirst%20Project/CodeHubBeginners.github.io/image%203.jpg); /* Default image. */
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+    transition: background-image 1s linear;
+}
+
+.test { height: 220px; }
+@media all and (min-width: 48em) {
+    .test { height: 320px; }
 }

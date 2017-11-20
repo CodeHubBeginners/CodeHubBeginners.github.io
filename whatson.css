@@ -12,17 +12,12 @@ header{
 	padding: 20px 20px 20px 20px;
 }
 
-
-
-
-
 body{
-	background-image: url(backk.jpg);
+	background-image: url(background.jpg);
 	background-repeat: no-repeat;
 	 background-position: 0 0;
 	  background-attachment: fixed;
 	 background-size: cover;
-
 }
 
 
@@ -41,11 +36,17 @@ h3{
 	font-family: "Courier New";
 }
 
+p{
+	font-size: 10px;
+font-family: "Courier New";
+}
+
 ul{
 	padding: 10px;
 	background: black;
 	background: #7da6e8;
 }
+
 li{
 	display: inline;
 	padding: 0px 10px 0px 10px;
@@ -54,12 +55,10 @@ li{
 #map {
         height: 400px;
         width: 100%;
-
-       }
+   }
 
 
  div.london2{
-
 			     padding-left: 25px;
 			 		padding-right: 25px;
 			 		padding-bottom: 25px;
@@ -67,14 +66,14 @@ li{
 			     margin: 25px;
 			 }
 
-
 .locations{
-	font-size: 25px;
+	font-size: 10px;
 	font-family: "Courier New";
 	padding-left: 100px;
 	padding-top: 20px;
 	display: none;
 }
+
 footer{
     color: white;
     background: #7da6e8;
@@ -83,13 +82,21 @@ footer{
     background: #7da6e8;
     text-align: center;
 }
+
 .contact{
     padding-top: 5px;
     padding-bottom: 5px;
     background-color: black;
 }
+
 .media_buttons{
     background: #7da6e8;
     background-size: cover;
     padding-bottom: 5px;
 }
+
+a { text-decoration: none; color: white; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; color: white; }
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
