@@ -1,0 +1,50 @@
+header{
+	text-align: center;
+	color: white;
+	background: black;
+	background-size: cover;
+	font-family: "Courier New";
+}
+h1{
+	font-size: 50px;
+}
+ul{
+	padding: 10px;
+	background: black;
+	background: #7da6e8;
+}
+li{
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+button{
+    background: green;
+    color: white;
+}
+form{
+    padding: 10px 0px 10px 0px;
+}
+footer{
+    color: white;
+    background: #7da6e8;
+    background-size: cover;
+    font-family: "Courier New";
+    background: #7da6e8;
+    text-align: center;
+}
+.contact{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: black;
+}
+.media_buttons{
+    background: #7da6e8;
+    background-size: cover;
+    padding-bottom: 5px;
+}
+
+a { text-decoration: none; color: white; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; color: white;}
+a:focus { text-decoration: none; }
+a:hover, a:active { text-decoration: none; }
